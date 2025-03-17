@@ -1,0 +1,12 @@
+{
+	"id": "pear",
+	"name": "pear",
+	"author": ["SylviBlossom"],
+	"description": "pear",
+	"prefix": "pear",
+	"main_file": "pear.lua",
+	"dependencies": [
+		"Steamodded (>=1.*)"
+	],
+	"version": "1.0.0"
+}
